@@ -34,11 +34,11 @@ body {
 
 @media only screen and (min-width: 100px) {
     .item-no-box {
-            padding: 70px;
+            padding: 40px;
     }
 
     .item-no-box h1 {
-        font-size: 50px;
+        font-size: 40px;
         font-weight: 900;
         letter-spacing: -2px;
     }
